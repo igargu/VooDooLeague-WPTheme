@@ -1,0 +1,11 @@
+/* ------------  ----------- */
+.details .standard {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    margin-bottom: 5px;
+}
+
+#metabox {
+    background: rgba(181, 181, 181, .3);
+}

@@ -1,0 +1,8 @@
+.Game {
+    padding: 3px 10px;
+    display: inline-block;
+    border-radius: 2px;
+    background: red;
+    color: white;
+    text-transform: uppercase;
+}
